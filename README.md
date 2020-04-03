@@ -15,7 +15,7 @@ Both of them under the namespace `/camera/color`.
 
 `image_transport` API allows to subscribe to both topics only specifying the camera image topic name, through a call to the `image_transport` function `subscribeCamera`.
 
-In this case, the topic to which, the nodes subscribes by default is `depth_camera/image_raw` which can be remapped to anything else when the node is called (using ROS remapping arguments).
+In this case, the topic to which, the node subscribes by default is `depth_camera/image_raw` which can be remapped to anything else when the node is called (using ROS remapping arguments).
 
 ### Image processing
 
