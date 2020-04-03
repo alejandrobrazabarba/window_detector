@@ -41,9 +41,9 @@ Finally, with the window center and orientation calculated we can publish some a
 
 In ROS, the camera reference frame axis are oriented as follows:
 
--z axis points from the optical center towards the scene
--x axis points to the right of the optical center
--y axis points down from the optical center
+- z axis points from the optical center towards the scene
+- x axis points to the right of the optical center
+- y axis points down from the optical center
 
 As shown in the following image:
 
